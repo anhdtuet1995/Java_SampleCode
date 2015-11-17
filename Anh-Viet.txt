@@ -1,0 +1,3 @@
+mean:nghia
+hello:xin chao
+kangaroo:con cang ga ru
