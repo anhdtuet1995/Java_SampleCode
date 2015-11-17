@@ -1,0 +1,10 @@
+﻿rain:mưa
+love:tình yêu
+cow:con bò
+happy:hạnh phúc
+shoe:giầy
+fan:quạt, người hâm mộ
+tree:cái cây
+move:di chuyển
+lady:quý bà
+limit:giới hạn

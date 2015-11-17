@@ -1,0 +1,7 @@
+﻿butterfly:con bướm
+honey:mật ong,em yêu
+happy:hạnh phúc
+hello:xin chào
+hi:xin chào
+cow:con bò,con cá
+their:của họ

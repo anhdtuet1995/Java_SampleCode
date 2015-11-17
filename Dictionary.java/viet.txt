@@ -1,0 +1,9 @@
+﻿tên:name
+tình yêu:love
+bông hoa:flower
+cái cây:tree
+nhiều hơn:more
+có thể:can
+nghĩa:mean
+con rắn:snake
+con voi:elephant
